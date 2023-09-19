@@ -8,7 +8,6 @@ import tests.bases.BaseTest;
 
 import static org.testng.AssertJUnit.assertEquals;
 import static org.testng.AssertJUnit.assertTrue;
-import static pages.LoginPage.textError;
 
 @Log4j2
 public class LoginTest extends BaseTest {

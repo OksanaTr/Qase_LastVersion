@@ -1,6 +1,5 @@
 package pages;
 
-import com.sun.activation.viewers.TextEditor;
 import elements.DropDown;
 import elements.Input;
 import io.qameta.allure.Step;
@@ -8,7 +7,6 @@ import lombok.extern.log4j.Log4j2;
 import models.Suite;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import static pages.ProjectPage.CREATE_BUTTON;
 

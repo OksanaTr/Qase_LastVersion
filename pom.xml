@@ -9,12 +9,12 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <selenium.version>4.11.0</selenium.version>
-        <testng.version>7.8.0</testng.version>
-        <bonigarcia.version>5.5.3</bonigarcia.version>
+        <testng.version>7.7.1</testng.version>
+        <bonigarcia.version>5.4.1</bonigarcia.version>
         <aspectjweaver.version>1.9.6</aspectjweaver.version>
         <lombok.version>1.18.24</lombok.version>
         <javafaker.version>1.0.2</javafaker.version>

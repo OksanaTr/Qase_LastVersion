@@ -3,7 +3,6 @@ package tests;
 import io.qameta.allure.Description;
 import models.*;
 import org.testng.annotations.Test;
-
 import tests.bases.BaseTest;
 
 import static org.testng.Assert.assertEquals;

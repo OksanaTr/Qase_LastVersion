@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="313b4c95-e748-42e6-a54a-21f65ab4b12d" name="Changes" comment="Add">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SuiteModalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SuiteModalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/RepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="b5fd3237-3290-479d-b8c2-e0a3fb3f4bda" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -158,9 +167,9 @@
       <list>
         <item itemvalue="TestNG.LoginTest.userLogInWithValidData" />
         <item itemvalue="TestNG.LoginTest.userEnterInvalidDataInLogin" />
+        <item itemvalue="TestNG.ProjectTest.createProject" />
         <item itemvalue="TestNG.RepositoryTest.openRepository" />
         <item itemvalue="TestNG.ProjectTest.userDeleteProject" />
-        <item itemvalue="TestNG.ProjectTest.createProject" />
       </list>
     </recent_temporary>
   </component>

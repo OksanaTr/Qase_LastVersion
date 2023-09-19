@@ -1,12 +1,7 @@
 package pages;
 
-import elements.Input;
-import elements.RadioButton;
-import elements.TextArea;
 import io.qameta.allure.Step;
 import lombok.extern.log4j.Log4j2;
-import models.Case;
-import models.Project;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
