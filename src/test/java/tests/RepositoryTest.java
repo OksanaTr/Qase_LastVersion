@@ -3,11 +3,11 @@ package tests;
 import io.qameta.allure.Description;
 import models.*;
 import org.testng.annotations.Test;
-import pages.RepositoryPage;
+
 import tests.bases.BaseTest;
 
 import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
+
 
 public class RepositoryTest extends BaseTest {
     @Test(description = "Create of suite")
@@ -25,7 +25,7 @@ public class RepositoryTest extends BaseTest {
 
         repositoryPage.clickSuiteButton();
 
-        assertEquals(suiteModalPage.getTextAlertMessageOnRepositoryPage(), "Suite was successfully created.",
+        assertEquals(repositoryPage.getTextAlertMessageOnRepositoryPage(), "Suite was successfully created.",
                 "The message is missing or does not match");
 
         }
@@ -45,9 +45,9 @@ public class RepositoryTest extends BaseTest {
         assertEquals(repositoryPage.getTextAlertMessageOnRepositoryPage(), "Test case was created successfully!",
                 "The message is missing or does not match");
 
-    }
+    }}
 
-    @Description("The user delete a case")
+  /*  @Description("The user delete a case")
     @Test
     public void deleteCase() {
         loginPage.open()

@@ -38,7 +38,7 @@ public class LoginTest extends BaseTest {
     }
     @Description("Input invalid data")
     @Test(dataProvider="InvalidLoginTest")
-    public void userEnterInvalidDataInLogin(String email, String password, String errorMessage) {
+    public void userEnterInvalidDataInLogin(String email, String password, String textError) {
        loginPage.open()
                 .enterEmailAndPasswordData(email,password)
                 .clickSingInButton()

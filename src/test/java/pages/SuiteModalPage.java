@@ -40,6 +40,7 @@ public class SuiteModalPage extends BasePage {
     }
 
 
+
     @Step("SuiteModalPage loaded")
     @Override
     public boolean isPageOpen() {

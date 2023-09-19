@@ -51,7 +51,7 @@ public class CasePage extends BasePage{
         return new RepositoryPage(driver);
     }
 
-    @Step("Create a new project")
+    /*@Step("Create a new project")
     public RepositoryPage createCase(Case case) {
         new Input(driver,"Project name").write(case.getTitle());
         new Input(driver,"Project code").write(case.getProjectCode());
@@ -59,9 +59,8 @@ public class CasePage extends BasePage{
         new RadioButton(driver,"Private").clickOnRadioButton();
         new RadioButton(driver,"Add all members to this project").clickOnRadioButton();
         return clickSaveButton();
-    }
+    }*/
 
-    }
     @Step("CaseModalPage loaded")
     @Override
     public boolean isPageOpen() {

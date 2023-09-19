@@ -22,8 +22,6 @@ public abstract class BasePage {
     public BasePage (WebDriver driver){
         this.driver = driver;
         wait = new WebDriverWait(driver, Duration.ofSeconds(20));}
-
-
     @Step("Сheck the presence of the locator on the loaded page")
     protected boolean isExist(By locator) {
         try {

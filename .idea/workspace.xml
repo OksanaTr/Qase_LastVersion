@@ -4,45 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="313b4c95-e748-42e6-a54a-21f65ab4b12d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/elements/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/elements/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/elements/RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/elements/TextArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/elements/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/CaseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/ProjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/Suite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/SuiteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DeleteModalPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ModalProjectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ProjectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RepositoryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SuiteModalPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/bases/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/bases/Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/bases/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Log4j2-test.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Screenshot/scan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testNG.xml" afterDir="false" />
+    <list default="true" id="313b4c95-e748-42e6-a54a-21f65ab4b12d" name="Changes" comment="Add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b5fd3237-3290-479d-b8c2-e0a3fb3f4bda" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -71,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Qase_LastVersion/src/test/java/models",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Qase_LastVersion/src/test/java/models&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
@@ -97,25 +63,7 @@
       <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RepositoryTest.openRepository">
-    <configuration name="LoginTest.LeaveEmailIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Qase_LastVersion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
-      <option name="METHOD_NAME" value="LeaveEmailIsEmpty" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LoginTest.userLogInWithValidData">
     <configuration name="LoginTest.userEnterInvalidDataInLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qase_LastVersion" />
       <extension name="coverage">
@@ -127,6 +75,24 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
       <option name="METHOD_NAME" value="userEnterInvalidDataInLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.userLogInWithValidData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Qase_LastVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="userLogInWithValidData" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest.userLogInWithValidData" />
+        <item itemvalue="TestNG.LoginTest.userEnterInvalidDataInLogin" />
         <item itemvalue="TestNG.RepositoryTest.openRepository" />
         <item itemvalue="TestNG.ProjectTest.userDeleteProject" />
         <item itemvalue="TestNG.ProjectTest.createProject" />
-        <item itemvalue="TestNG.LoginTest.LeaveEmailIsEmpty" />
-        <item itemvalue="TestNG.LoginTest.userEnterInvalidDataInLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +173,89 @@
       <option name="presentableId" value="Default" />
       <updated>1694970224386</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add">
+      <option name="closed" value="true" />
+      <created>1695089699344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695089699344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add">
+      <option name="closed" value="true" />
+      <created>1695136480207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695136480207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add">
+      <option name="closed" value="true" />
+      <created>1695136743322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695136743322</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add">
+      <option name="closed" value="true" />
+      <created>1695136836437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695136836437</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add">
+      <option name="closed" value="true" />
+      <created>1695136868243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695136868243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add" />
   </component>
 </project>
