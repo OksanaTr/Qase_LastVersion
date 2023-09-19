@@ -17,7 +17,7 @@ public class ProjectTest extends BaseTest {
                 .open()
                 .enterEmailAndPasswordData(email, password)
                 .clickSingInButton();
-        modalProjectPage.clickCreateButton();
+        projectPage.clickCreateButton();
 
         Project project = ProjectFactory.enterRandomFieldModalProjectPage();
         modalProjectPage.createProject(project);

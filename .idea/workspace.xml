@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="313b4c95-e748-42e6-a54a-21f65ab4b12d" name="Changes" comment="Add">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="313b4c95-e748-42e6-a54a-21f65ab4b12d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SuiteModalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SuiteModalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ModalProjectPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ModalProjectPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProjectPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ProjectPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ProjectTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/RepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,23 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.LoginTest.userLogInWithValidData">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Qase_LastVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.userEnterInvalidDataInLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qase_LastVersion" />
       <extension name="coverage">
@@ -127,24 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjectTest.userDeleteProject" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Qase_LastVersion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ProjectTest" />
-      <option name="METHOD_NAME" value="userDeleteProject" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RepositoryTest.openRepository" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qase_LastVersion" />
       <extension name="coverage">
@@ -166,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.LoginTest.userLogInWithValidData" />
-        <item itemvalue="TestNG.LoginTest.userEnterInvalidDataInLogin" />
         <item itemvalue="TestNG.ProjectTest.createProject" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.userEnterInvalidDataInLogin" />
         <item itemvalue="TestNG.RepositoryTest.openRepository" />
-        <item itemvalue="TestNG.ProjectTest.userDeleteProject" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695136868243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1695139649458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695139649458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +271,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>

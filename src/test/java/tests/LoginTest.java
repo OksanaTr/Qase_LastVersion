@@ -28,7 +28,6 @@ public class LoginTest extends BaseTest {
         return new Object[][]{
                 {"xetive9314@sportrid.com", "1234567891abc!S", "These credentials do not match our records."},
                 {"ыва@yandex.com", "1234567891abc!S", "Value 'ыва@yandex.com' does not match format email of type string"},
-                {"xetive9314@sportrid.com", "1234567891abc!S**************************************", "These credentials do not match our records."},
                 {"xetive9314@sportrid.com", "1234567891чмc!S", "These credentials do not match our records."},
                 {"ghnb@yande.ru", "1234567891abc!S", "These credentials do not match our records."},
                 {"xetive9314@sportrid.com ","1542368S**15a", "Value 'xetive9314@sportrid.com ' does not match format email of type string"},

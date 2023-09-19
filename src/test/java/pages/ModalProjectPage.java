@@ -11,7 +11,8 @@ import org.openqa.selenium.WebDriver;
 
 @Log4j2
 public class ModalProjectPage extends BasePage {
-    public static final By UPDATE_BUTTON = By.cssSelector("button[type=submit]");
+    public static final By UPDATE_BUTTON = By.xpath("//button[@type = 'submit']//span");
+
     public static final By CANCEL_BUTTON = By.xpath("//button[@type = 'button']/span[text() = 'Cancel']");
     public static final By PROJECTS_BUTTON = By.xpath("//div[@class = 'lsfuW_']//a[text()='Projects']");//кнопка projects в вернем меню на каждой странице
 

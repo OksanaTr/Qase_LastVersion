@@ -45,23 +45,3 @@ public class RepositoryTest extends BaseTest {
                 "The message is missing or does not match");
 
     }}
-
-  /*  @Description("The user delete a case")
-    @Test
-    public void deleteCase() {
-        loginPage.open()
-                .enterEmailAndPasswordData(email, password)
-                .clickSingInButton();
-        Project Project;
-        modalProjectPage.createProject(Project);
-
-                Project project = ProjectFactory.enterRandomFieldModalProjectPage();
-        modalProjectPage.createProject(project)
-                .clickCaseButton();
-        Case caseBasic = CaseFactory.fillInAllFieldsOfBasicCase();
-        casePage.createCase();
-                repositoryPage.clickCaseButton()
-                        .deleteCase();
-                assertTrue(repositoryPage.checksThatListIsDisplayed(), "The list contains cases");
-        projectsPage.deleteLatestProjectAfterTest();
-    }*/

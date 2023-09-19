@@ -71,6 +71,12 @@ public class ProjectPage extends BasePage {
         log.info("Click delete_button");
         return this;
     }
+    @Step("Create project")
+    public ProjectPage clickCreateButton() {
+        driver.findElement(CREATE_BUTTON).click();
+        log.info("Click create_button");
+        return this;
+    }
 
 
     @Step("Click the Settings button in drop down on ProjectsPage")
